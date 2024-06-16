@@ -1,0 +1,3 @@
+---
+# Default variables for example-role
+nginx_proxy_port: 80
